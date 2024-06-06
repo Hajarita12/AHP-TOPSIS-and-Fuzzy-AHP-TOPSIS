@@ -17,7 +17,7 @@ This platform will enable multi-criteria comparison of different project alterna
 
 
 ## Software architecture
-![angular-8-springboot-crud-app](https://github.com/Hajarita12/RepositoryPFA24/assets/120518556/f94a1c60-6b9c-41f3-ad81-99e9e525ac19)
+![architecture](https://github.com/Hajarita12/AHP-TOPSIS-and-Fuzzy-AHP-TOPSIS/assets/120518556/16ff4e05-d8e2-4add-8a4f-22ddb0795dde)
 
 The application architecture uses Angular for the frontend and Spring for the backend, with communication via an HTTP client.
 ## Docker Image
